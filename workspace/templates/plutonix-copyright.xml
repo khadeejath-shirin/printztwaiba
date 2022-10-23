@@ -1,5 +1,5 @@
 /**
- * Copyright(c) 2022 Plutonix Technologies Private Ltd.
+ * Copyright(c) #{year} Plutonix Technologies Private Ltd.
  *
  * All rights reserved.
  *
@@ -7,8 +7,5 @@
  * Information"). You shall not disclose such Confidential Information and shall use it only in
  * accordance with the terms of the contract agreement you entered into with Plutonix.
  *
- * @author shirin
+ * @author #{author}
  */
-.App {
-  text-align: center;
-}
