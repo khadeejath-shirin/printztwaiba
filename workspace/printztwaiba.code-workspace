@@ -1,0 +1,13 @@
+{
+  "folders": [
+    {
+      "path": "../printzapp"
+    },
+    {
+      "path": "../printzapp-ui"
+    }
+  ],
+  "settings": {
+    "fileTemplates.templates_dir": "D:/dev/printztwaiba/workspace/templates"
+  }
+}
